@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "xJQSJBeY18XxmZhLIZEMp3kwtNxYRxd3EyPrmUW+/JY=",
+  "Hash": "jT9y8Rv0IcjAnhj4jM2k/rmUrHmLS05Ye8hNHl1Admw=",
   "Source": "SalesWebMvc1",
   "BasePath": "_content/SalesWebMvc1",
   "Mode": "Default",
@@ -262,6 +262,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Identity": "C:\\temp\\SalesWebMvc1\\SalesWebMvc1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-flatly.css",
+      "SourceId": "SalesWebMvc1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\temp\\SalesWebMvc1\\SalesWebMvc1\\wwwroot\\",
+      "BasePath": "_content/SalesWebMvc1",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-flatly.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-flatly.css"
     },
     {
       "Identity": "C:\\temp\\SalesWebMvc1\\SalesWebMvc1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
